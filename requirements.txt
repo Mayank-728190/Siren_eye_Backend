@@ -1,8 +1,11 @@
 gunicorn
 flask
-tensorflow
-torch
-torchvision
-opencv-python-headless
-numpy
 ultralytics
+torch
+tensorflow
+keras
+opencv-python
+moviepy
+librosa
+numpy
+
